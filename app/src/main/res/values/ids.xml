@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="roomNameTextView" type="id" />
+    <item name="locationTextView" type="id" />
+    <item name="priceTextView" type="id" />
+</resources>

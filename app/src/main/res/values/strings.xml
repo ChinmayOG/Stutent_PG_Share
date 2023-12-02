@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Student PG App</string>
+    <string name="username">username</string>
+    <string name="userimage">UserImage</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="create_account">create_account</string>
+    <string name="name">name</string>
+    <string name="email_id">email_id\n</string>
+    <string name="phone_number">Phone No</string>
+    <string name="aadhar_card_no">aadhar_card_no</string>
+    <string name="re_enter_password">re_enter_password</string>
+    <string name="register">Register\n</string>
+    <string name="paying_guest">Paying Guest</string>
+    <string name="rent">Rent</string>
+    <string name="Owner">owner</string>
+    <string name="room_rentals">PG Room Rent</string>
+    <string name="search_for_rooms">Search for rooms...</string>
+    <string name="room_name">Room Name</string>
+    <string name="location">Location</string>
+    <string name="price">Price</string>
+    <string name="add_room">Add Room</string>
+</resources>
