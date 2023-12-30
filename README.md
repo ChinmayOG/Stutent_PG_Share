@@ -1,4 +1,5 @@
 # Stutent_PG_Share
 Let's Do it As a Team.
 <br>
-Developer:Chinmay
+Lead Developer: Chinmay<br>
+Co-Developers : Sahil<br>  Swagat
