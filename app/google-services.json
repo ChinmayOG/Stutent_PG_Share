@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "895424585056",
+    "project_id": "student-pg-app",
+    "storage_bucket": "student-pg-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895424585056:android:039e8fea3a2fa6d4165205",
+        "android_client_info": {
+          "package_name": "com.pgshare.studentpgapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNvKXVkE6_UNTaWPO4sJbFqYQNeKnxWYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
