@@ -2,4 +2,4 @@
 Let's Do it As a Team.
 <br>
 Lead Developer: Chinmay<br>
-Co-Developers : Sahil<br>\tSwagat
+Co-Developers : Sahil<br><\t>Swagat
